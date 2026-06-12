@@ -1,0 +1,114 @@
+Project's
+
+Business4AI - Enterprise AI Platform
+Role: AI Engineer Lead - End-to-end ownership from architecture to production deployment
+Architecture: Designed scalable microservices platform with 10 backend services and 4 module federation frontends
+AI Integration: Implemented multi-LLM strategy using Claude Sonnet 4.5 (via Claude Code CLI) and AWS Bedrock for intelligent automation
+Cloud Infrastructure: Azure-native deployment - Static Web Apps for frontend, Container Apps for services, Redis for caching, Blob Storage for data persistence
+DevOps Excellence: Built automated CI/CD pipelines with GitHub Actions for continuous deployment and testing
+Tech Stack: Python (FastAPI), React.js, Azure Services, Claude Sonnet 4.5, AWS Bedrock, Docker, Redis
+Impact: Enabled organization-wide AI adoption with production-ready, scalable platform serving multiple business units
+Multimodal-RAG Playground - AI Document Intelligence Platform
+Solution: Built enterprise platform processing multimodal content (Images, Video, Audio, PDFs with embedded images) for intelligent Q&A
+Leadership: Led cross-functional team of 8+ (UI, Backend, Data Engineering, AI) delivering features across sprints
+Architecture: Designed RAG pipeline with vector embeddings, semantic search, and context-aware retrieval using Databricks and Azure services
+DevOps: Configured Azure DevOps CI/CD for automated testing, deployment, and sprint releases
+Tech Stack: Langchain, Azure OpenAI, Databricks, Azure Cognitive Services, Vector DBs
+Impact: Enabled intelligent document analysis at scale with 80%+ accuracy in multimodal content extraction
+Agentic AI Chatbot - Intelligent Reasoning System
+Innovation: Architected production-grade Agentic AI system with ReAct pattern implementation from scratch, enabling autonomous reasoning and tool use
+Features: Dual-mode interface (text + visualization), function calling for external integrations, context-aware multi-turn conversations
+Team Leadership: Led team of 5 engineers through design, development, and deployment phases
+Production Deployment: Deployed on Azure App Service with secure architecture using Key Vault for secrets, MySQL for state management
+Tech Stack: Langraph (agentic orchestration), FastAPI, GPT-4o, Azure App Service, Key Vault, Blob Storage, MySQL
+Impact: Reduced manual query resolution time by 70% with intelligent autonomous agent workflows
+RAG Playground - Document Intelligence Engine
+Solution: Built intelligent document processing pipeline with custom parsers for 15+ file formats and AI-powered enrichment
+Architecture: Designed end-to-end RAG system with chunking strategies, vector embeddings, and semantic search optimization
+Innovation: Developed custom document enrichment modules using NLP for metadata extraction, entity recognition, and content summarization
+Tech Stack: Langchain, Azure OpenAI embeddings, Databricks Vector Search, Azure Cognitive Services
+Impact: Improved downstream chatbot accuracy by 35% through enriched vector database with enhanced context retrieval
+RAISE Platform - AI Governance & Security
+Solution: Designed enterprise AI governance platform with human-in-the-loop monitoring, security controls, and quality assurance
+Security: Implemented prompt injection detection, input sanitization, and output validation to secure GenAI applications
+Quality Metrics: Built comprehensive evaluation framework for data quality, model performance, and response reliability
+Agent Architecture: Leveraged Microsoft Autogen for multi-agent orchestration and collaborative AI workflows
+Tech Stack: Microsoft Autogen, LLM APIs, Azure Security Services
+Impact: Established production-ready AI governance framework adopted across 10+ enterprise AI projects
+Legal Tender AI Review - Compliance Automation
+Business Problem: Manual legal contract review taking 100+ hours per tender, high risk of compliance violations
+Solution: Built AI-powered contract validation system using RAG architecture with compliance rule engines and risk assessment
+Approach: Led end-to-end solution - requirement gathering, architecture design, prompt engineering experimentation, production deployment
+Tech Stack: GPT-3.5-Turbo, Azure OpenAI Embeddings (text-embedding-ada-002), Azure Cognitive Search (vector store), Langchain orchestration
+Business Impact: - 1.4M€ annual cost avoidance - 60% accuracy in high-confidence criticality assessment - 90% reduction in review time from 100+ hours to 10 hours
+Code Assistant - AI-Powered Development Tool
+Solution: Built intelligent code generation system converting business requirements to production-ready PySpark code
+Constraint: Air-gapped environment requiring fully on-premise deployment without external API calls
+Innovation: Deployed open-source LLMs (Mistral, Llama 2) with quantization optimization on Databricks GPU compute for cost-effective inference
+Architecture: RAG-based system with code examples in vector DB, prompt engineering for code quality, Langchain orchestration
+Tech Stack: Databricks GPU, HuggingFace models, Quantization (4-bit), ChromaDB vector store, Langchain, Ollama runtime
+Impact: 50% reduction in data pipeline development time, enabled non-technical users to generate complex PySpark transformations
+Generate Synthetic Data using Generative AI
+Tabular: Utilized libraries such as CTGAN, SDV, etc for generation.
+Images: Generative models such as GAN, BIG-GAN, stable diffusion, etc.
+Text: Used GPT-2, Mosiacml, Bloom, falcon, etc. for text generation tasks.
+Implemented using Hugging Face, TensorFlow Hub and other frameworks.
+Personalized Marketing
+Personalize images using Open-Source Stable Diffusion Models.
+Performed Fine Tuning using Dreambooth Framework.
+Natural Language to SQL
+Implemented using Open AI “text-davinci-003” model and Prompt engineering techniques.
+Built UI using Gradio framework for quick demo.
+AWS Clean Room
+Take marketing decision without third party cookies.
+Configured collaboration between advertiser and publisher using, S3 and Glue.
+Amperity CDP for Identity resolution (IDR) and customer campaigns
+Technologies: Amperity Platform
+Customer Satisfaction Analytics
+Research & analysis on requirements and planning.
+Brainstorming the solution with respect to requirements.
+Generating actionable insights from data and creating reports, presentation and dashboards to take key business decision.
+Perform analysis namely predicting loyal customers using cluster models, CSAT, NPS, SERVQUAL, Recency Frequency Monetary (RFM), Cohort analysis.
+Use python for automation (OOPS, REST APIs, logging, exceptional handling, config file. linting, etc.).
+Performed Sentiment classification and Topic Modelling as part of Satisfaction Metrics
+Technologies: Python & Machine Learning.
+Hackathon
+Insect Acoustic AI
+Is a Multi class audio classification. Extracted features from audio data and experiment with multiple model architectures such as ANN, Hugging Face pretrained models and fine tuning.
+Experimentation was performed on cloud AWS Sage maker.
+Evaluation metrics such as True Positive, Accuracy, etc.
+Google Generative AI
+Theme: Customer products and retail: Personalized Copy Generate.
+Used Google's LLM "text-bison (latest)" model from Google Vertex AI .
+Personalized content generation for e-commerce platform such as:
+Create product description for new/existing products.
+Personalized content generation for promotional activities (SMS/Email/Social media) based on customer past transaction details.
+Come up with strategies for retaining churning customers.
+June 2022 - Present (3 years 11 months)
+Software Development Engineer - Machine Learning
+Flexera Software
+Summary
+
+ML Engineering: Built production ML models for open-source license detection and copyright extraction, improving product accuracy by 20%.
+Automation & DevOps: Automated manual workflows using Python, REST APIs, MongoDB - reducing operational time by 60%.
+Product Engineering: Debugged and optimized internal products, delivered customer-critical fixes with 99.5% uptime SLA.
+Innovation: Researched and integrated AI/ML solutions including NLP-based chatbots and component analysis systems.
+Project's
+
+Open-Source License Detection & Copyright Extraction
+Business Impact: Increased component license mappings from 35% to 55% (+20% improvement) for enterprise software compliance
+Solution: Built NLP-based ML system for automated license detection and copyright holder extraction from source code
+Full-Stack ML: End-to-end ownership - data preprocessing, model training (Spacy NER), REST API development, production deployment
+Production Architecture: Deployed on UWSGI server with MongoDB for persistence, serving 10K+ daily predictions with 99.5% uptime
+Tech Stack: Python, Spacy (NLP), Scikit-learn, REST APIs, UWSGI, MongoDB
+Q&A Chatbot for HR - Conversational AI
+Research & Evaluation: Comparative analysis of 4 chatbot platforms (Google Dialogflow, Amazon Lex, Azure LUIS, Rasa X) for production deployment
+Solution: Built intelligent HR chatbot with NLU, FAQ automation, and email integration for 500+ employees
+Architecture: Python backend with MongoDB for conversation history, multi-platform integration testing
+Business Impact: 70% reduction in HR ticket volume, 50% faster employee query resolution
+Tech Stack: Python, Dialogflow/Lex/LUIS/Rasa, MongoDB, Email APIs
+Automation Tools, Python automation projects.
+Rules for identifying components.
+Download, extract important information from releases of component.
+Validate URL of component.
+Generate SQL queries, etc.
